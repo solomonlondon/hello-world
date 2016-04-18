@@ -1,0 +1,8 @@
+function convertToRoman(num) {
+var newArr = [];
+newArr = num * "I";
+}
+
+return newArr;
+
+convertToRoman(4146);
